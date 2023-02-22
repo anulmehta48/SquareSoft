@@ -1,0 +1,27 @@
+{
+  "name": "www.squareinfosoft.com",
+  "version": "1.0.0",
+  "description": "Square Infosoft's vision is to digitize the life of people by making various software products and enable them to grow more with the help of technology.",
+  "main": "node src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anulmehta48/SquareSoft.git"
+  },
+  "author": "Anul Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anulmehta48/SquareSoft/issues"
+  },
+  "homepage": "https://github.com/anulmehta48/SquareSoft#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
